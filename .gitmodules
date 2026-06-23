@@ -1,0 +1,3 @@
+[submodule "token-list"]
+	path = token-list
+	url = https://github.com/kairokume/token-list.git
